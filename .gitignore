@@ -1,0 +1,28 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build/Package Files
+*.zip
+*.crx
+*.pem
+node_modules/
+dist/
+
+# Temporary Files
+*.log
+*.tmp
+.cache/
+
+# Development
+.env
+.env.local
+secrets/
