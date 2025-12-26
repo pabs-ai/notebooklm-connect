@@ -160,7 +160,7 @@ Contributions are welcome! Here's how you can help:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/notebooklm-connect.git
+git clone https://github.com/pabs-ai/notebooklm-connect.git
 
 # Navigate to the project
 cd notebooklm-connect
