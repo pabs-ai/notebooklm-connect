@@ -40,7 +40,7 @@ Stop manually copying and pasting web content into NotebookLM. Send any webpage 
 
 ### Manual Installation (Developer Mode)
 
-1. Download the [latest release](https://github.com/yourusername/notebooklm-connect/releases)
+1. Download the [latest release](https://github.com/pabs-ai/notebooklm-connect/releases)
 2. Extract the ZIP file
 3. Open Chrome and go to `chrome://extensions/`
 4. Enable "Developer mode" (toggle in top-right)
@@ -199,9 +199,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/notebooklm-connect/issues)
-- **Email**: feedback@notebooklmconnect.com
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/notebooklm-connect/discussions)
+- **Issues**: [GitHub Issues](https://github.com/pabs-ai/notebooklm-connect/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/pabs-ai/notebooklm-connect/discussions)
 
 ---
 
@@ -210,7 +209,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If this extension helps your research workflow, consider:
 - ⭐ Starring the repository
 - 🐦 Sharing on social media
-- ☕ [Buying me a coffee](https://buymeacoffee.com/yourusername)
 - ✍️ Writing a review on the Chrome Web Store
 
 ---
